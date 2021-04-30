@@ -1,4 +1,3 @@
-package kobietydokoukurs;
 
 import java.util.Date;
 
